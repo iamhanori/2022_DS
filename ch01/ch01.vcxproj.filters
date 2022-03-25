@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0318\primeNumber.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="0318\magicCard.c">
+    <ClCompile Include="0325\factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
